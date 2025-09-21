@@ -88,7 +88,7 @@ Artisan-Raga
 ![Screenshot 2](prototype/screenshot2.jpeg)  
 ![Screenshot 3](prototype/screenshot3.jpeg)  
 ![Screenshot 4](prototype/screenshot4.jpeg)  
-![Screenshot 5](prototype/screenshot5.jped)  
+![Screenshot 5](prototype/screenshot5.jpeg)  
 
 
 
