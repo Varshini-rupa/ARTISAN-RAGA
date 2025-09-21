@@ -85,10 +85,10 @@ Artisan-Raga
 🎥 **Demo Video:** [Watch Here](https://drive.google.com/drive/folders/1DDEdMWLsOfsnNaE_j2rY5b7RDpBZUzN8?usp=drive_link)  
 
 ![Screenshot 1](prototype/screenshot1.png)  
-![Screenshot 2](prototype/screenshot2.png)  
-![Screenshot 3](prototype/screenshot3.png)  
-![Screenshot 4](prototype/screenshot4.png)  
-![Screenshot 5](prototype/screenshot5.png)  
+![Screenshot 2](prototype/screenshot2.jpeg)  
+![Screenshot 3](prototype/screenshot3.jpeg)  
+![Screenshot 4](prototype/screenshot4.jpeg)  
+![Screenshot 5](prototype/screenshot5.jped)  
 
 
 
