@@ -83,14 +83,14 @@ Artisan-Raga
 ## **Prototype & Demo**
 💻 **Live Prototype:** [Open Prototype](https://arten-connect-ai.lovable.app/)  
 🎥 **Demo Video:** [Watch Here](https://drive.google.com/drive/folders/1DDEdMWLsOfsnNaE_j2rY5b7RDpBZUzN8?usp=drive_link)  
-[![Screenshot 1](prototype/screenshot1.jpeg)](prototype/screenshot1.jpeg)  
-[![Screenshot 2](prototype/screenshot2.jpeg)](prototype/screenshot2.jpeg)
-[![Screenshot 3](prototype/screenshot3.jpeg)](prototype/screenshot3.jpeg)  
-[![Screenshot 4](prototype/screenshot4.jpeg)](prototype/screenshot4.jpeg)
-[![Screenshot 5](prototype/screenshot5.jpeg)](prototype/screenshot5.jpeg)
 
+## 📸 Prototype Screenshots  
 
-
+- [View Screenshot 1](prototype/screenshot1.jpeg)  
+- [View Screenshot 2](prototype/screenshot2.jpeg)  
+- [View Screenshot 3](prototype/screenshot3.jpeg)  
+- [View Screenshot 4](prototype/screenshot4.jpeg)  
+- [View Screenshot 5](prototype/screenshot5.jpeg)
 ---
 
 ## **How to Use**
