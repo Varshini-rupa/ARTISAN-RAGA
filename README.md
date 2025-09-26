@@ -71,8 +71,11 @@ Artisan-Raga
 ├── docs
 │ └── Project_Pitch.pdf
 ├── prototype
-│ ├── screenshots1.png
-│ ├── screenshots2.png
+│ ├── screenshots1.jpeg
+│ ├── screenshots2.jpeg
+│ ├── screenshots3.jpeg
+│ ├── screenshots4.jpeg
+│ ├── screenshots5.jpeg
 │ └── prototype_link.txt
 └── assets
 └── architecture_diagram.png
