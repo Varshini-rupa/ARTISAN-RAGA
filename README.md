@@ -62,7 +62,7 @@ This creates a **seamless digital experience** for buyers while **empowering art
 - **Society**: Preserves cultural heritage and supports sustainable livelihoods  
 
 ---
-
+```
 ## **Repository Structure**  
 
 Artisan-Raga
@@ -80,7 +80,7 @@ Artisan-Raga
 └── assets
 └── architecture_diagram.png
 
-
+```
 ---
 
 ## **Prototype & Demo**
